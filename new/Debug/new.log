@@ -1,0 +1,8 @@
+﻿  Level.cpp
+c:\users\abdelrahman\documents\visual studio 2015\projects\ascii game\new\level.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\abdelrahman\documents\visual studio 2015\projects\ascii game\new\level.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\abdelrahman\documents\visual studio 2015\projects\ascii game\new\level.cpp(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\abdelrahman\documents\visual studio 2015\projects\ascii game\new\level.cpp(120): warning C4018: '<': signed/unsigned mismatch
+c:\users\abdelrahman\documents\visual studio 2015\projects\ascii game\new\level.cpp(213): warning C4018: '<': signed/unsigned mismatch
+  new.vcxproj -> C:\Users\Abdelrahman\Documents\Visual Studio 2015\Projects\ASCII Game\Debug\new.exe
+  new.vcxproj -> C:\Users\Abdelrahman\Documents\Visual Studio 2015\Projects\ASCII Game\Debug\new.pdb (Partial PDB)
